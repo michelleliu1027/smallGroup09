@@ -1,0 +1,6 @@
+﻿  mouse_input.c
+  xlsdk_input_includes.c
+  Generating Code...
+     Creating library D:\Capstone\mouse_input\x64\Debug\mouse_input.lib and object D:\Capstone\mouse_input\x64\Debug\mouse_input.exp
+mouse_input.obj : error LNK2019: unresolved external symbol __imp_GetCursorPos referenced in function modeler_read_inputs
+D:\Capstone\mouse_input\x64\Debug\mouse_input.dll : fatal error LNK1120: 1 unresolved externals

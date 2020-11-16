@@ -1,0 +1,3 @@
+﻿  mouse_input.c
+D:\_xlsdk\samples\input_libraries\static_standard_input\mouse_input.h(29,10): fatal error C1083: Cannot open include file: 'pub_intel_modeler.h': No such file or directory
+  xlsdk_input_includes.c

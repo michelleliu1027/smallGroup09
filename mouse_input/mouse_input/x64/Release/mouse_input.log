@@ -1,0 +1,25 @@
+﻿  mouse_input.c
+d:\_xlsdk\samples\input_libraries\static_standard_input\mouse_input.c(104): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'DWORD'
+d:\_xlsdk\samples\input_libraries\static_standard_input\mouse_input.c(104): warning C4024: 'printf': different types for formal and actual parameter 1
+d:\_xlsdk\samples\input_libraries\static_standard_input\mouse_input.c(269): warning C4102: 'modeler_read_inputs_error': unreferenced label
+  xlsdk_input_includes.c
+     Creating library D:\Capstone\mouse_input\x64\Release\mouse_input.lib and object D:\Capstone\mouse_input\x64\Release\mouse_input.exp
+  Generating code
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+xlsdk_input.lib(pub_intel_modeler.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(pub_intel_modeler.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(esrv_version_signature.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(esrv_version_signature.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(intel_modeler_input_build_signature.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(intel_modeler_input_build_signature.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(intel_modeler_logger_build_signature.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(intel_modeler_logger_build_signature.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(service.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(service.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(pub_esrv_ipc.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(pub_esrv_ipc.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(driver_exceptions_handler.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(driver_exceptions_handler.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(equation_evaluator.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(equation_evaluator.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(blob.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(blob.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(driver_sampling_manager.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(driver_sampling_manager.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(diagnostic.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(diagnostic.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(equations.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(equations.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+xlsdk_input.lib(_error.obj) : warning LNK4099: PDB 'xlsdk_input.pdb' was not found with 'xlsdk_input.lib(_error.obj)' or at 'D:\Capstone\mouse_input\x64\Release\xlsdk_input.pdb'; linking object as if no debug info
+  mouse_input.vcxproj -> D:\Capstone\mouse_input\x64\Release\mouse_input.dll
+  Copying library to run directory.
+          1 file(s) copied.
